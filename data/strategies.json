@@ -1,0 +1,170 @@
+[
+  {
+    "name": "omniauth",
+    "gem": "omniauth",
+    "description": "Standardized Multi-Provider Authentication",
+    "provider": null,
+    "official": true,
+    "developer": null,
+    "maintainers": [
+      {
+        "name": "@omniauth",
+        "handle": "omniauth"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-cas",
+    "gem": "omniauth-cas",
+    "description": "Authentication via CAS server",
+    "provider": null,
+    "official": false,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@dlindahl",
+        "handle": "dlindahl"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-http-basic",
+    "gem": "omniauth-http-basic",
+    "description": "HTTP Basic authentication",
+    "provider": null,
+    "official": false,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@janx",
+        "handle": "janx"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-krb5",
+    "gem": "omniauth-krb5",
+    "description": "Authentication via Kerberos",
+    "provider": null,
+    "official": false,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@naffis",
+        "handle": "naffis"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-ldap",
+    "gem": "omniauth-ldap",
+    "description": "Authenticating through LDAP and Active Directory",
+    "provider": null,
+    "official": true,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@omniauth",
+        "handle": "omniauth"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-oauth",
+    "gem": "omniauth-oauth",
+    "description": "Abstract strategy for quick implementation of OAuth strategies",
+    "provider": null,
+    "official": true,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@omniauth",
+        "handle": "omniauth"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-oauth2",
+    "gem": "omniauth-oauth2",
+    "description": "Abstract strategy for quick implementation of OAuth2 strategies",
+    "provider": null,
+    "official": true,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@omniauth",
+        "handle": "omniauth"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-openid",
+    "gem": "omniauth-openid",
+    "description": "Authentication via OpenID",
+    "provider": null,
+    "official": true,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@omniauth",
+        "handle": "omniauth"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-openam",
+    "gem": "omniauth-openam",
+    "description": "Authentication via OpenAM",
+    "provider": null,
+    "official": false,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@mak-it",
+        "handle": "mak-it"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-saml",
+    "gem": "omniauth-saml",
+    "description": "Authentication via SAML",
+    "provider": null,
+    "official": false,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@rajiv",
+        "handle": "rajiv"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-shibboleth",
+    "gem": "omniauth-shibboleth",
+    "description": "Authentication via Shibboleth (SAML)",
+    "provider": null,
+    "official": false,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@toyokazu",
+        "handle": "toyokazu"
+      }
+    ]
+  },
+  {
+    "name": "omniauth-wsfed",
+    "gem": "omniauth-wsfed",
+    "description": "Authentication via Azure ACS, ADFS 2.0, Corporate Secure Token Servers",
+    "provider": null,
+    "official": false,
+    "developer": true,
+    "maintainers": [
+      {
+        "name": "@kbeckman",
+        "handle": "kbeckman"
+      }
+    ]
+  }
+]
