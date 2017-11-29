@@ -35,8 +35,8 @@ const PrimaryLayout = () => (
   </div>
 )
 
-const ResourcesPage = () => <div>Resources Page</div>
-const UsagePage = () => <div>Usage Page</div>
+const ResourcesPage = () => <div>Coming Soon</div>
+const UsagePage = () => <div>Coming Soon</div>
 
 const App = () => (
   <BrowserRouter>
