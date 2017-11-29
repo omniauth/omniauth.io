@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 import { InstantSearch, SearchBox, Hits, Pagination } from 'react-instantsearch/dom';
 import qs from 'qs';
 
-import '../assets/styles/Strategies.css';
-import '../assets/styles/search.css';
+import './styles.css';
 
 const updateAfter = 700;
 

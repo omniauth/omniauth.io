@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch, Redirect, Link } from 'react-router-dom';
 
-import HomePage from './pages/Home.js';
-import StrategiesPage from './pages/Strategies.js';
+import HomePage from '../Home';
+import StrategiesPage from '../Strategies';
 
-import logo from './assets/images/logo.png';
-import './assets/styles/App.css';
+import logo from './assets/logo.png';
+import './styles.css';
 
 const PrimaryLayout = () => (
   <div className="App">

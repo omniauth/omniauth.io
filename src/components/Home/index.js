@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import Highlight from 'react-highlight.js';
 
-import '../assets/styles/Home.css';
-import '../assets/styles/code.css';
+import './styles.css';
 
 class Home extends Component {
   render() {
