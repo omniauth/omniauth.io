@@ -30,14 +30,14 @@ function StrategyResult({hit}) {
 
           <p>
             <small>Maintained By:</small>
-            <a href="https://github.com/{hit.maintainers[0].handle}">{hit.maintainers[0].name}</a>
+            <a href={"https://github.com/" + hit.maintainers[0].handle}>{hit.maintainers[0].name}</a>
           </p>
         </div>
       </div>
 
       <div className="button">
-        <a href="https://rubygems.org/gems/{hit.gem}">RubyGems</a>
-        <a href="https://github.com/{hit.maintainers[0].handle}/{hit.gem}">Github</a>
+        <a href={"https://rubygems.org/gems/" + hit.gem}>RubyGems</a>
+        <a href={"https://github.com/" + hit.maintainers[0].handle +"/"+ hit.gem}>Github</a>
       </div>
     </div>
   );
