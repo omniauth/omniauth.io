@@ -17,7 +17,7 @@ const PrimaryLayout = () => (
         <Link to="/">Home</Link>
         <Link to="/strategies">List of Strategies</Link>
         <Link to="/resources">Documentation / Resources</Link>
-        <Link to="/usage">Who's is Using OmniAuth?</Link>
+        <Link to="/usage">Who's Using OmniAuth?</Link>
       </nav>
     </header>
 
